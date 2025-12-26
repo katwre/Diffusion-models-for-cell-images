@@ -11,7 +11,7 @@
 -----------------------------
 
 
-The aim of this project is to learn how good diffusion models are at generating missing parts of images, and here I'll do it based on the H&E-stained blood microscopy images.
+The aim of this project is to explore the ability of diffusion models to generate missing regions in H&E-stained blood cell microscopy images.
 
 Recognizing blood cell types in microscopic images is an important task in clinical diagnostics. Although this problem has been studied for decades, new machine learning and deep learning approaches continue to improve classification accuracy ([Acevedo et al. (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0169260719303578?via%3Dihub) and [Deltadahl et al, Nature Machine Intelligence 2025](https://www.nature.com/articles/s42256-025-01122-7))
 
