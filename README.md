@@ -96,6 +96,4 @@ Possible extensions include:
   *"Generate an erythroblast image with the nucleus region masked."*
 - Evaluating how class conditioning influences structural and morphological fidelity
 
-This phase represents a natural extension of the dataset and enables more targeted generative modeling.
-
 ----
